@@ -1,0 +1,31 @@
+#spr1_1829bfc {
+  clip: rect(0px, 2340px, 1080px, 0px);
+}
+#spr3_1829bfc {
+  width: 2340px;
+  height: 1795px;
+  overflow: hidden;
+}
+#spr5_1829bfc {
+  width: 1172.94px;
+  height: 717.793px;
+  display: none;
+  overflow: hidden;
+}
+#spr7_1829bfc,
+#spr8_1829bfc {
+  display: none;
+}
+#txt0_1829bfc,
+#txt1_1829bfc {
+  font-family: fnt6;
+  font-size: 48px;
+  line-height: 53px;
+  color: #ffffff;
+}
+#spr9_1829bfc {
+  width: 523.371px;
+  height: 265px;
+  display: none;
+  overflow: hidden;
+}
