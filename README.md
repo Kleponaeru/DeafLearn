@@ -9,9 +9,8 @@
 - **Offline Functionality**: Accessible even without an internet connection, ensuring children can continue learning in areas with limited connectivity.
 
 ## Technology Stack
-- **Frontend**: [Flutter/React Native] (Specify the technology used for building the user interface)
-- **Backend**: [Firebase/Node.js] (Specify the backend technology used)
-- **Database**: [Firestore/MySQL] (Specify the database technology used)
+- **Javascript**
+- **Kotlin**
 
 ## Impact
 DeafLearn has been successfully implemented within the DTLS community, achieving a high satisfaction rate:
